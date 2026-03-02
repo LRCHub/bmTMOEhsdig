@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私をライブに連れてって",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:59:03.228411Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私をライブに連れてって",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_私をライブに連れてって_サンボマスター.txt"
+    }
+  ]
+}
